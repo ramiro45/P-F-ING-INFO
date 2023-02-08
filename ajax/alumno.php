@@ -24,7 +24,7 @@ switch ($_GET["op"]) {
             "2"=>$reg->apellido,
             "3"=>$reg->rendimiento,
             "4"=>$reg->escuela,
-            "5"=>$reg->ciclo,
+            "5"=>$reg->cicloooo,
             "6"=>($reg->condicion)?'<span class="label bg-green">Activado</span>':'<span class="label bg-red">Desactivado</span>'
               );
 		}
